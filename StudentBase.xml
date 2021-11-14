@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StudentBase>
+  <speciality ID="1"  SPECIALITY="Cybernetic">
+    <group GROUP="K26">
+      <student ID ="1"
+               ROOM="224"
+               SURNAME="LIUBKO"
+               NAME="Daniil">
+        </student>
+      <student ID="2"
+               ROOM="224"
+               SURNAME="ABOBUS"
+               NAME="ZAGLOTUS">
+        </student>
+      </group>
+    </speciality>
+ <speciality ID="2" SPECIALITY="Cybernetic">
+   <group GROUP="R22">
+     <student ID="1"
+              ROOM="222"
+              SURNAME="Andrey"
+              NAME="Petrov">
+       </student>
+     <student ID="2"
+              ROOM ="222"
+              SURNAME="ANTONOV"
+              NAME="Anton">
+       </student>
+     </group>
+   </speciality>
+      
+  
+</StudentBase>
